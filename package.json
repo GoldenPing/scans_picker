@@ -1,0 +1,11 @@
+{
+  "name": "scans_picker",
+  "version": "1.0.0",
+  "description": "Application node.js de téléchargement de scan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
